@@ -1,0 +1,30 @@
+COLUMNAS
+
+ I  0  I  1  I  2  I  3  I  4  I  5  I  6  I  7  I  8  I  9  I
+ I_____I_____I_____I_____I_____I_____I_____I_____I_____I_____
+OI 1x1 I 2x1 I 3x1 I ax1 I 5x1 I 6x1 I 7x1 I 8x1 I 9x1 I 10x1
+1I 1x2 I 2x2 I 3x2 I 4x2 I 5x2 I 6x2 I 7x2 I 8x2 I 9x2 I 10x2
+2I 1x3 I 2x3 I 3x3 I 4x3 I 5x3 I 6x3 I 7x3 I 8x3 I 9x3 I 10x3
+3I 1xa I 2x4 I 3x4 I axa I sxa I 6x4 I 7x4 I 8x4 I 9x4 I 10x4
+4I 1x5 I 2x5 I 3x5 I 4x5 I 5x5 I 6x5 I 7x5 I 8x5 I 9x5 I 10x5
+5I 1x6 I 2x6 I 3x6 I ax6 I 5x6 I 6x6 I 7x6 I 8x6 I 9x6 I 10x6
+6I 1x7 I 2x7 I 3x7 I 4x7 I 5x7 I 6x7 I 7x7 I 8x7 I 9x7 I 10x7
+7I 1x8 I 2x8 I 3x8 I 4x8 I 5x8 I 6x8 I 7x8 I 8x8 I 9x8 I 10x8
+8I 1x9 I 2x9 I 3x9 I 4x9 I 5x9 I 6x9 I 7x9 I 8x9 I 9x9 I 10x9
+9I 1x10 I 2x10 I 3x10 I 4x10 I 5x10 I 6x10 I 7x10 I 8x10 I 9x10 I 10x10
+
+//                              C O L U M N A S
+//      I____________________________________________________________________________I 
+//	  I 	 I  0   I  1   I  2   I  3   I  4   I  5   I  6   I  7   I  8   I  9     I
+//	  I____I_____ I_____ I_____ I_____ I______I______I______I______I______I________I
+//	  I  O I 1x1  I 2x1  I 3x1  I ax1  I 5x1  I 6x1  I 7x1  I 8x1  I 9x1  I 10x1   I
+//	  I  1 I 1x2  I 2x2  I 3x2  I 4x2  I 5x2  I 6x2  I 7x2  I 8x2  I 9x2  I 10x2   I
+//	F I  2 I 1x3  I 2x3  I 3x3  I 4x3  I 5x3  I 6x3  I 7x3  I 8x3  I 9x3  I 10x3   I
+//	I I  3 I 1xa  I 2x4  I 3x4  I axa  I sxa  I 6x4  I 7x4  I 8x4  I 9x4  I 10x4   I
+//	L I  4 I 1x5  I 2x5  I 3x5  I 4x5  I 5x5  I 6x5  I 7x5  I 8x5  I 9x5  I 10x5   I
+//	A I  5 I 1x6  I 2x6  I 3x6  I ax6  I 5x6  I 6x6  I 7x6  I 8x6  I 9x6  I 10x6   I
+//	S I  6 I 1x7  I 2x7  I 3x7  I 4x7  I 5x7  I 6x7  I 7x7  I 8x7  I 9x7  I 10x7   I
+//	  I  7 I 1x8  I 2x8  I 3x8  I 4x8  I 5x8  I 6x8  I 7x8  I 8x8  I 9x8  I 10x8   I
+//	  I  8 I 1x9  I 2x9  I 3x9  I 4x9  I 5x9  I 6x9  I 7x9  I 8x9  I 9x9  I 10x9   I
+//	  I  9 I 1x10 I 2x10 I 3x10 I 4x10 I 5x10 I 6x10 I 7x10 I 8x10 I 9x10 I 10x10  I
+//      I____________________________________________________________________________I
